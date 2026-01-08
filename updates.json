@@ -1,7 +1,6 @@
 {
-    "version": "v2.0.68",
-    "url": "https://github.com/lugalzer/tools-updates/releases/download/v2.0.65/lugalzer-tools-setup-2.0.68.exe",
-    "changelog": "Persistenza dati tra le sezioni, fix calcolo nati all'estero, nuovo pulsante Reset nel Codice Fiscale e correzione link aggiornamento.",
+    "version": "2.0.69",
+    "url": "https://github.com/lugalzer/tools-updates/releases/download/v2.0.69/lugalzer-tools-setup-2.0.69.exe",
+    "changelog": "Fix rilevamento aggiornamenti: migliorata la logica di comparazione delle versioni.",
     "mandatory": true
 }
-
