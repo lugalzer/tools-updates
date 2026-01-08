@@ -1,16 +1,6 @@
 {
-    "version": "2.0.63",
-    "url": "https://drive.google.com/file/d/1kZuPQDCL5U0NWhHMD-Qlp1jETLUOIseh/view?usp=sharing",
-    "changelog": "Aggiornamento v2.0.63: Fix icona disinstallazione e collegamenti desktop.",
-    "mandatory": false
+  "version": "2.0.64",
+  "url": "https://github.com/lugalzer/lugalzer-tools/releases/download/v2.0.64/Lugalzer.Tools.2.0.Setup.2.0.64.exe",
+  "changelog": "Nuove icone HQ multi-risoluzione, fix critico del percorso preload.js, gestione migliorata dei redirect nel download e protezione contro i lock del file durante l'installazione.",
+  "mandatory": true
 }
-
-
-
-
-
-
-
-
-
-
