@@ -1,6 +1,7 @@
 {
-    "version": "2.0.70",
-    "url": "https://github.com/lugalzer/tools-updates/releases/download/v2.0.70/lugalzer-tools-setup-2.0.70.exe",
-    "changelog": "Nuova barra di avanzamento download, fix collegamento desktop e icone ufficiali su Windows.",
+    "version": "2.0.71",
+    "url": "https://github.com/lugalzer/tools-updates/releases/download/v2.0.70/lugalzer-tools-setup-2.0.71.exe",
+    "changelog": "Nuove funzionalità.",
     "mandatory": true
 }
+
